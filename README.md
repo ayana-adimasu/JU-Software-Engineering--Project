@@ -6,7 +6,11 @@ for the Software Engineering Tools and Practices
 course at Jimma University.
 
 ## Group Members
-To be added.
+1.Ayana Adimasu
+2.Anuwar  Abdujebar
+3.Abenezer Balcha
+4.Biriktawit  Beyera 
+5. Beza  Getachew     
 
 ## Project Title
 To be decided.
